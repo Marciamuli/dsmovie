@@ -1,4 +1,6 @@
 import MovieScore from "components/MovieScore";
+import { linkSync } from "fs";
+import { Link } from "react-router-dom";
 
 function MovieCard() {
 
@@ -15,7 +17,10 @@ function MovieCard() {
             <div className="dsmovie-card-bottom-container">
                 <h3>{movie.title}</h3>
                 <MovieScore />
-                <div className="btn btn-primary dsmovie-btn">Avaliar</div>
+
+                <Link to={`/form/${movie.id}`}>
+                    <div className="btn btn-primary dsmovie-btn">Avaliar</div>
+                </Link>
             </div>
         </div>
     );
