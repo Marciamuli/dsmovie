@@ -19,10 +19,11 @@ public class Movie {
 	private String image;
 	
 	public Movie() {
-    }
+		
+	}
 
 	public Movie(Long id, String title, Double score, Integer count, String image) {
-	    this.id = id;
+		this.id = id;
 		this.title = title;
 		this.score = score;
 		this.count = count;
@@ -70,4 +71,6 @@ public class Movie {
 	}
 	
 	
-}
+}	
+
+  

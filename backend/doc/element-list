@@ -1,0 +1,7 @@
+com.devsuperior.dsmovie
+com.devsuperior.dsmovie.config
+com.devsuperior.dsmovie.controllers
+com.devsuperior.dsmovie.dto
+com.devsuperior.dsmovie.entities
+com.devsuperior.dsmovie.repositories
+com.devsuperior.dsmovie.services

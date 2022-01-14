@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.devsuperior.dsmovie"},{"l":"com.devsuperior.dsmovie.config"},{"l":"com.devsuperior.dsmovie.controllers"},{"l":"com.devsuperior.dsmovie.dto"},{"l":"com.devsuperior.dsmovie.entities"},{"l":"com.devsuperior.dsmovie.repositories"},{"l":"com.devsuperior.dsmovie.services"}];updateSearchResults();
