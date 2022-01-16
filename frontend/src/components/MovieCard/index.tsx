@@ -1,5 +1,4 @@
 import MovieScore from "components/MovieScore";
-import { linkSync } from "fs";
 import { Link } from "react-router-dom";
 
 function MovieCard() {
